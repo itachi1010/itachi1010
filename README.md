@@ -1,5 +1,5 @@
 
-# Hey yo, I'm Benedict Chuks-Onah 👋
+# Hi, I'm Benedict Chuks-Onah 👋
 
 ### Backend & Full-Stack Software Engineer
 **Python · Django · Node.js · PostgreSQL · Docker · Kubernetes**
